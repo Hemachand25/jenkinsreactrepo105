@@ -4,5 +4,5 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base:'jenkinsrep' // deployment folder but not repo name
+  base:'jenkinserp' // deployment folder but not repo name
 })
